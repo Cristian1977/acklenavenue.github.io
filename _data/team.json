@@ -6,11 +6,11 @@
 	  "position": "Developer",
 	  "location":"San Pedro Sula, Honduras",
 	  "department": "developer",
-	  "facebook":"facebook",
-	  "twitter":"twitter",
-	  "github":"github",
+	  "facebook":"https://www.facebook.com/Test-User-990653817666982/",
+	  "twitter":"https://twitter.com/TestToolUser1",
+	  "github":"https://github.com/sudarshanpsl",
 	  "linkedin":"linkedin",
-	  "quote":"Acklen Avenue Rocks!"
+	  "quote":"Acklen Avenue Rocks! Test"
 	},
 	{
 	  "name":"Fernando",
